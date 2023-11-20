@@ -35,7 +35,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Notifications and Distractions](/pdf/Ethics Papper CPP1.pdf)
+### [Notifications and Distractions](/pdf/Ethics_Papper_CPP1.pdf)
 
 -   **Class: CSCI235 - Procedural Programming**  
 -   **Grade: A**
@@ -45,7 +45,7 @@ Ethics Papers
 -   **Class: CSCI315 - Data Structure Analysis** 
 -   **Grade: A**
 
-### [Ethical Dilemmas with Work and Faith](/pdf/CSCI315 Ethics Paper.pdf)
+### [Ethical Dilemmas with Work and Faith](/pdf/CSCI315_Ethics_Paper.pdf)
 
 -   **Class: CSCI325 - Object-Oriented Programming** 
 -   **Grade: A**
@@ -55,13 +55,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [First American Financial Corp](/pdf/security presentation.pdf)
+### [First American Financial Corp](/pdf/security_presentation.pdf)
 
 - **Class: CSCI405 - Priciples of Cybersecurity** 
 - **Grade: A**
 
 
-### [Oracle SPARC Solaris](/pdf/Oracle SPARC Solaris.pdf)
+### [Oracle SPARC Solaris](/pdf/Oracle_SPARC_Solaris.pdf)
 
 - **Class: CSCI431 - Operating Systems** 
 - **Grade: A**
