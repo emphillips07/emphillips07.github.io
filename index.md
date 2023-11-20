@@ -7,12 +7,13 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Toy App | CSCI 334](project1)
+### [HTML Parsing and Crawling | CSCI 315](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [HTML Parsing and Crawling | CSCI 315](project2)
+
+### [Inventory Sorter | CSCI 325](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
