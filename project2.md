@@ -36,6 +36,4 @@ Fig 2. Running with multiple specified pages.
 ![screenshot](images/prj2-3.png)  
 Fig 3. Running with all available pages.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
