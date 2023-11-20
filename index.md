@@ -9,23 +9,23 @@ Programming Projects
 ---
 ### [HTML Parsing and Crawling | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/prj1-logo)
+![Project 1 Thumbnail Name](images/prj1-logo.png)
 
 ---
 
 ### [Minimum Overlap Coverage | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/prj2-logo.png)
 
 ---
 ### [Sum of Permutations | CSCI 415](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/prj3-logo.png)
 
 ---
 ### [Sodoku Answer Checker | CSCI 431](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/prj4-logo.png)
 
 ---
 
