@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Minimum Overlap Coverage
+Sum of Permutations
 ===============
 
 -   **Class: CSCI415 - Algorithms** 
