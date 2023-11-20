@@ -20,7 +20,7 @@ How to compile and run the project.
 ```bash
 cd ./htmlParsingAndCrawling
 make
-./html-test <page name/s>
+./html-test pages/<filename.txt>
 ```
 
 ## UI Design
@@ -35,7 +35,5 @@ Fig 2. Running with multiple specified pages.
 
 ![screenshot](images/prj1-3.png)  
 Fig 3. Running with all available pages.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
