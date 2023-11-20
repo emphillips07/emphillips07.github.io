@@ -3,10 +3,10 @@
 Minimum Overlap Coverage
 ===============
 
--   **Class: CSCI315 - Data Structure Analysis** 
--   **Grade: B** 
+-   **Class: CSCI415 - Algorithms** 
+-   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [emphillips07/minimumOverlapCoverage](https://github.com/emphillips07/minimumOverlapCoverage)  
+-   **Source Code Repository:** [emphillips07/minimumOverlapCoverage](https://github.com/emphillips07/sumOfPermutations)  
     (Please [email me](mailto:ephillips@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -32,8 +32,5 @@ Fig 1. Running with only one page.
 
 ![screenshot](images/prj4-2.png)  
 Fig 2. Running with multiple specified pages.
-
-![screenshot](images/prj4-3.png)  
-Fig 3. Running with all available pages.
 
 [Back to Portfolio](./)
