@@ -11,7 +11,7 @@ Minimum Overlap Coverage
 
 ## Project description
 
-This project demonstrated the use of stacks in queues in C++. The first part of the project would parse though an HTML document, and verify if the HTML were balanced. Balanced means that every open tag has a close tag, and the last open tag would be closed before any previous open tag was closed. The second part of the project is a basic web crawler. The program would parse though the HTML documents, and check for any anchor tags in the documents. It would then check to see if it was a valid anchor tab. If so, it would visit the other page and the cycle would continue until there were no more pages to visit. It would then print the total number of pages that each of the documents could visit.
+This project finds the minimum overlap of sets that cover all points. The example problem that this solves is this: there is a class that has multple group projects that need to be presented. The professor has to grade every student at least once, but wants to minimize the amount of grading that they have to do. The students are able to be members of multiple projects, but only want to present once. This project takes provided sets of students, and finds the minimum amount of sets that need to be presented. The program runs and times the algorithm to see how longs it take it to run.
 
 ## How to compile and run the program
 
@@ -25,7 +25,7 @@ make
 
 ## UI Design
 
-The program can be ran in two different ways. A single page can be checked if ran with ./html-test and the path to the page (see Fig 1), or multiple pages can be check simultaneously (see Fig 2). If checking all pages is desire, simply run the command make run (see Fig 3). Anyway it is run, it will check the desired pages to see if the HTML tags are balanced, and what pages can visit other with the available selection.
+The program can be ran with multiple different parameters (see Fig 1). After inputting ./min-overlap-test, the user can put any of the available sets of data that are provided with the project. These sets include: small30.set, small100.set, medium30.set, large30.set, large50.set, and simple.set. Each set provides different set sizes and different set amounts. After choosing a set, the user can input whether or not to save the timing information of how long the algorithm takes to run. Finally, the user inputs the sets that are compared to the given sets. Once all of that has been entered, the program will run and output the covered sets, the minimum number of elements it took to cover those sets, and how longs it took to find that (see Fig 2). If the user opted to store the timing data, it would be stored in a .dat file in the data folder (see Fig 3). The timing data is stored in seconds.
 
 ![screenshot](images/prj2-1.png)  
 Fig 1. Running with only one page.
