@@ -6,31 +6,31 @@ Minimum Overlap Coverage
 -   **Class: CSCI415 - Algorithms** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [emphillips07/minimumOverlapCoverage](https://github.com/emphillips07/sumOfPermutations)  
+-   **Source Code Repository:** [emphillips07/sumOfPermutations](https://github.com/emphillips07/sumOfPermutations)  
     (Please [email me](mailto:ephillips@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project demonstrated the use of stacks in queues in C++. The first part of the project would parse though an HTML document, and verify if the HTML were balanced. Balanced means that every open tag has a close tag, and the last open tag would be closed before any previous open tag was closed. The second part of the project is a basic web crawler. The program would parse though the HTML documents, and check for any anchor tags in the documents. It would then check to see if it was a valid anchor tab. If so, it would visit the other page and the cycle would continue until there were no more pages to visit. It would then print the total number of pages that each of the documents could visit.
+This project demonstrate the use or recursion to find all of the possible answers to a problem. Given numbers 1 though 9, find all of the different set of numbers that statisfy the equation given. While this may seem simple, there is over 360,000 different combinations of how to arrange these numbers. This project demonstrates how to effeciently accomplish this task. There were 192 different combinations to satisfy this equation, and each one are listed out.
 
 ## How to compile and run the program
 
 How to compile and run the project.
 
 ```bash
-cd ./minimumOverlapCoverage
-make
-./min-overlap-test <set file> <yes/no> <list of phrases>
+cd ./sumOfPermutations
+g++ -o main main.cpp
+./main
 ```
 
 ## UI Design
 
-The program can be ran in two different ways. A single page can be checked if ran with ./html-test and the path to the page (see Fig 1), or multiple pages can be check simultaneously (see Fig 2). If checking all pages is desire, simply run the command make run (see Fig 3). Anyway it is run, it will check the desired pages to see if the HTML tags are balanced, and what pages can visit other with the available selection.
+The program can be ran only with the given perameters. Once started, the program starts to list out all of the iterations that satisfy the given equation and the current amount of correct combinations (see Fig 1). Once the last of the combinations of numbers are reached, the program is terminated showing that last possible combination of numbers that work for the equation (see Fig 2).
 
 ![screenshot](images/prj4-1.png)  
-Fig 1. Running with only one page.
+Fig 1. Printing out all of the working combinations and current count.
 
 ![screenshot](images/prj4-2.png)  
-Fig 2. Running with multiple specified pages.
+Fig 2. All of the permuations have been checked.
 
 [Back to Portfolio](./)
