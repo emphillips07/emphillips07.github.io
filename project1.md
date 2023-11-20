@@ -20,9 +20,7 @@ How to compile and run the project.
 ```bash
 cd ./htmlParsingAndCrawling
 make
-make run
-or
-./html-test pages/(page_name.html)
+./html-test <page name/s>
 ```
 
 ## UI Design
