@@ -35,7 +35,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Notifications and Distractions](/pdf/EthicsPapperCPP1.pdf)
+### [Notifications and Distractions](/pdf/EthicsPaperCPP1.pdf)
 
 -   **Class: CSCI235 - Procedural Programming**  
 -   **Grade: A**
@@ -45,7 +45,7 @@ Ethics Papers
 -   **Class: CSCI315 - Data Structure Analysis** 
 -   **Grade: A**
 
-### [Ethical Dilemmas with Work and Faith](/pdf/CSCI315EthicsPaper.pdf)
+### [Ethical Dilemmas with Work and Faith](/pdf/CSCI325EthicsPaper.pdf)
 
 -   **Class: CSCI325 - Object-Oriented Programming** 
 -   **Grade: A**
