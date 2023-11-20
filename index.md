@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:ephillips@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [HTML Parsing and Crawling | CSCI 315](project1)
@@ -13,7 +13,7 @@ Programming Projects
 
 ---
 
-### [Inventory Sorter | CSCI 325](project2)
+### [Minimum Overlap Coverage | CSCI 355](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
