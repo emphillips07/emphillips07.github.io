@@ -18,12 +18,15 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/prj2-logo.png)
 
 ---
-### [Sum of Permutations | CSCI 415](project3)
+
+### [Sodoku Answer Checker | CSCI 431](project3)
+
 
 ![Project 3 Thumbnail Name](images/prj3-logo.png)
 
 ---
-### [Sodoku Answer Checker | CSCI 431](project4)
+
+### [Sum of Permutations | CSCI 415](project4)
 
 ![Project 4 Thumbnail Name](images/prj4-logo.png)
 
