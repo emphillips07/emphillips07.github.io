@@ -13,7 +13,7 @@ Programming Projects
 
 ---
 
-### [Minimum Overlap Coverage | CSCI 355](project2)
+### [Minimum Overlap Coverage | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
