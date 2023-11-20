@@ -11,7 +11,7 @@ Sudoku Answer Checker
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project consists of a multithreaded application that determines whether or no the solution to a Sudoku puzzle is valid. The program takes a given puzzle from a text file, runs 11 threads to check if different areas are valid, and converges together to determine if the entire puzzle is valid. The parent thread creates the 11 worker threads, passing each of the workers the location that they check in the puzzle. One checks all of the rows, one checks all of the columns, and the rest check each of the 9 squares. Once the worker thread has completed its task, it passes its result back to the parent.
 
 ## How to compile and run the program
 
@@ -25,17 +25,15 @@ gcc -pthread -o checkPuzzle main.c
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This program runs from the command line. To run, enter ./checkPuzzle and then put which file to check (see Fig 1). The project comes with two puzzles: puzzle1.txt and puzzle2.txt. Once a puzzle is picked and the program is run, it will print out the number of correct threads in the puzzle, it will print the puzzle itself, and whether or not the puzzle is valid or not. If the puzzle if valid, it will print out that 11 threads are correct and confirm that the puzzle is valid (see Fig 2). If the puzzle is not valid, the number of correct threads will be less than 11 and confirm that the puzzle is not valid (see Fig 3).
 
 ![screenshot](images/prj3-1.png)  
-Fig 1. The launch screen
+Fig 1. User input at the command line.
 
 ![screenshot](images/prj3-2.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Example output for a puzzle that is valid.
 
 ![screenshot](images/prj3-3.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Example output for a puzzle that is not valid.
 
 [Back to Portfolio](./)
