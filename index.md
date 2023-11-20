@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [HTML Parsing and Crawling | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/prj1-logo)
 
 ---
 
