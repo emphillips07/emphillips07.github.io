@@ -28,12 +28,12 @@ make
 The program can be ran with multiple different parameters (see Fig 1). After inputting ./min-overlap-test, the user can put any of the available sets of data that are provided with the project. These sets include: small30.set, small100.set, medium30.set, large30.set, large50.set, and simple.set. Each set provides different set sizes and different set amounts. After choosing a set, the user can input whether or not to save the timing information of how long the algorithm takes to run. Finally, the user inputs the sets that are compared to the given sets. Once all of that has been entered, the program will run and output the covered sets, the minimum number of elements it took to cover those sets, and how longs it took to find that (see Fig 2). If the user opted to store the timing data, it would be stored in a .dat file in the data folder (see Fig 3). The timing data is stored in seconds.
 
 ![screenshot](images/prj2-1.png)  
-Fig 1. Running with only one page.
+Fig 1. The user input in the command line.
 
 ![screenshot](images/prj2-2.png)  
-Fig 2. Running with multiple specified pages.
+Fig 2. Output of the program with small30 as the example.
 
 ![screenshot](images/prj2-3.png)  
-Fig 3. Running with all available pages.
+Fig 3. The time data file that records how long the alogorithm took.
 
 [Back to Portfolio](./)
