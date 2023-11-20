@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-HTML Parsing and Crawling
+Minimum Overlap Coverage
 ===============
 
 -   **Class: CSCI315 - Data Structure Analysis** 
@@ -18,11 +18,9 @@ This project demonstrated the use of stacks in queues in C++. The first part of 
 How to compile and run the project.
 
 ```bash
-cd ./htmlParsingAndCrawling
+cd ./minimumOverlapCoverage
 make
-make run
-or
-./html-test pages/(page_name.html)
+./min-overlap-test <set file> <yes/no> <list of phrases>
 ```
 
 ## UI Design
